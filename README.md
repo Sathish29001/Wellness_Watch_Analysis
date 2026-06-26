@@ -15,4 +15,4 @@ Advanced Data Visualization: Built multi-variable scatter plots and pie charts u
 
 Check out a snapshot of my workflow and visualizations below! 👇#DataAnalytics #Python #DataScience #DataVisualization #Pandas #Seaborn #Kaggle #WellnessAnalytics
 
-- ![Wellness Company Pdf](https://github.com/Sathish29001/Wellness_Watch_Analysis/blob/main/Wellness%20Company%20Case%20Study.pdf).
+ ![Wellness Company Pdf](https://github.com/Sathish29001/Wellness_Watch_Analysis/blob/main/Wellness%20Company%20Case%20Study.pdf).
